@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nestorgarciacheste&label=Profile%20views&color=0e75b6&style=flat" alt="nestorgarciacheste" /> </p>
 
-- 🔭 Ahora mismo estoy trabajando en un projecto llamado **consigna**
+- 🔭 Ahora mismo estoy trabajando en un projecto llamado **TFG**
 
-- 🌱 Aprendiendo actualmente **React, Python y Feathers v5**
+- 🌱 Aprendiendo actualmente **Angulat**
 
-- 💬 Preguntame sobre **Angular, Java, SQL etc**
+- 💬 Preguntame sobre **Java**
 
 - 📫 ¿Como contactar conmigo? **nestorgarcia.cheste@gmail.com**
 

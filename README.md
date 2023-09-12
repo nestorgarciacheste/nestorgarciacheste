@@ -6,7 +6,7 @@
 
 - 🔭 Ahora mismo estoy trabajando en un projecto llamado **TFG**
 
-- 🌱 Aprendiendo actualmente **Angulat**
+- 🌱 Aprendiendo actualmente **Angular**
 
 - 💬 Preguntame sobre **Java**
 
